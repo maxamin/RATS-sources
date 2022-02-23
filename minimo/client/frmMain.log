@@ -1,0 +1,10 @@
+Line 29: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 31: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 41: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 81: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 100: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 107: Class MSWinsockLib.Winsock of control wskCAPTURE was not a loaded control class.
+Line 26: The property name Width in tmrKeys is invalid.
+Line 27: The property name Height in tmrKeys is invalid.
+Line 38: The property name Width in tmrCapture is invalid.
+Line 39: The property name Height in tmrCapture is invalid.

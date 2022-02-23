@@ -1,0 +1,35 @@
+Line 18: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 48: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 335: Class MSWinsockLib.Winsock of control Client was not a loaded control class.
+Line 25: The property name _ExtentX in StatusBar1 is invalid.
+Line 26: The property name _ExtentY in StatusBar1 is invalid.
+Line 27: The property name Style in StatusBar1 is invalid.
+Line 28: The property name SimpleText in StatusBar1 is invalid.
+Line 29: The property name _Version in StatusBar1 is invalid.
+Line 34: The property name Panels in StatusBar1 is invalid.
+Line 54: The property name _ExtentX in SSTab1 is invalid.
+Line 55: The property name _ExtentY in SSTab1 is invalid.
+Line 56: The property name _Version in SSTab1 is invalid.
+Line 57: The property name TabHeight in SSTab1 is invalid.
+Line 59: The property name TabCaption(0) in SSTab1 is invalid.
+Line 60: The property name TabPicture(0) in SSTab1 is invalid.
+Line 61: The property name Tab(0).ControlEnabled in SSTab1 is invalid.
+Line 62: The property name Tab(0).Control(0) in SSTab1 is invalid.
+Line 63: The property name Tab(0).Control(0).Enabled in SSTab1 is invalid.
+Line 64: The property name Tab(0).Control(1) in SSTab1 is invalid.
+Line 65: The property name Tab(0).Control(1).Enabled in SSTab1 is invalid.
+Line 66: The property name Tab(0).Control(2) in SSTab1 is invalid.
+Line 67: The property name Tab(0).Control(2).Enabled in SSTab1 is invalid.
+Line 68: The property name Tab(0).ControlCount in SSTab1 is invalid.
+Line 69: The property name TabCaption(1) in SSTab1 is invalid.
+Line 70: The property name TabPicture(1) in SSTab1 is invalid.
+Line 71: The property name Tab(1).ControlEnabled in SSTab1 is invalid.
+Line 72: The property name Tab(1).ControlCount in SSTab1 is invalid.
+Line 73: The property name TabCaption(2) in SSTab1 is invalid.
+Line 74: The property name TabPicture(2) in SSTab1 is invalid.
+Line 75: The property name Tab(2).ControlEnabled in SSTab1 is invalid.
+Line 76: The property name Tab(2).ControlCount in SSTab1 is invalid.
+Line 338: The property name _ExtentX in Client is invalid.
+Line 339: The property name _ExtentY in Client is invalid.
+Line 340: The property name _Version in Client is invalid.
+Line 341: The property name RemotePort in Client is invalid.

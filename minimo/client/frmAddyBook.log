@@ -1,0 +1,4 @@
+Line 15: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 17: Class MSComctlLib.ListView of control lstAddy was not a loaded control class.
+Line 24: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 31: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.

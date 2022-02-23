@@ -1,0 +1,7 @@
+Line 23: Class MSComctlLib.ListView of control lstQueue was not a loaded control class.
+Line 30: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 39: Class MSWinsockLib.Winsock of control wskTransfer was not a loaded control class.
+Line 41: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 48: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 36: The property name Width in Timer1 is invalid.
+Line 37: The property name Height in Timer1 is invalid.

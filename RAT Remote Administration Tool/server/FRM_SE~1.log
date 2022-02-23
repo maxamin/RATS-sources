@@ -1,0 +1,4 @@
+Line 21: Class MSWinsockLib.Winsock of control sockserver was not a loaded control class.
+Line 24: The property name _ExtentX in sockserver is invalid.
+Line 25: The property name _ExtentY in sockserver is invalid.
+Line 26: The property name _Version in sockserver is invalid.
